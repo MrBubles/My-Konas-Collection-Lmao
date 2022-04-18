@@ -1,2 +1,3 @@
 # My-Konas-Collection-Lmao
-Tried To Find As Much Versions Of A Konas Jar I Can Find
+Tried To Find Public Konas Jars
+Pretty useless ngl
